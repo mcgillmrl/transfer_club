@@ -51,7 +51,8 @@ Papers:
 1) [Between MDPs and semi-MDPs](http://www-anw.cs.umass.edu/~barto/courses/cs687/Sutton-Precup-Singh-AIJ99.pdf)
 2) [CST: Constructing Skill Trees by Demonstration](https://cs.brown.edu/~gdk/pubs/cst-ws.pdf)
 3) [Planning with Abstract Markov Decision Processes](http://cs.brown.edu/people/ngopalan/docs/planning-abstract-markov.pdf)
-*Talk might cover more than these paper*
+
+** *Talk might cover more than these paper*
 
 ### Week 4 (November 16th) TBA
 Presented by [Auguste Lalande](https://github.com/augustelalande)
