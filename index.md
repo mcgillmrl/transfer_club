@@ -55,3 +55,6 @@ Presented by [Auguste Lalande](https://github.com/augustelalande)
 
 ### Week 5 (November 23rd) TBA
 Presented by [Sanjay Thakur](https://github.com/sanjaythakur)
+
+### Week 6 (November 30th) Bisimulation in Transfer
+Presented by [Philip Amortila](http://rl.cs.mcgill.ca/people.html)
