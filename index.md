@@ -37,6 +37,7 @@ Recommended reading material:
 
 ### Week 3 (November 9th) Introduction to Hierarchical Reinforcement Learning
 Presented by [Monica Patel](https://github.com/monicaMRL)
+
 There isn't one paper to summerise this topic so following is brief abstract of what I am planning to present.
 This Presetation will follow the same format as Juan's presentation of week 1. We will explore more on question of "What to Transfer? How its related to Hierarchy?" Some of the What's are:
 1) Control Policies: Options, Skills, Universal Options, Absctract Markov Decision Processes, Policy sketches.
