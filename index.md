@@ -38,21 +38,17 @@ Recommended reading material:
 ### Week 3 (November 9th) Introduction to Hierarchical Reinforcement Learning
 Presented by [Monica Patel](https://github.com/monicaMRL)
 
-There isn't one paper to summerise this topic so following is brief abstract of what I am planning to present.
-This Presetation will follow the same format as Juan's presentation of week 1. We will explore more on question of "What to Transfer? How its related to Hierarchy?" Some of the What's are:
-1) Control Policies: Options, Skills, Universal Options, Absctract Markov Decision Processes, Policy sketches.
-2) Value Function: Universal Value Function Approximators.
-3) Reward: Little introduction on "Intrinsic Motivation" and Hierarchy in rewards.
-4) Task Parametrization: Hierarchy in lifelong long learning 
+I will explore more on question of "What to Transfer? How its related to Hierarchy?" Some of the What's are:
 
---> *Only if time permits and if it interests anyone: "Theory of Mind" (Cognitive Science)* We can also talk about this off-line!
+1. Control Policies: Options, Skills, Universal Options, Absctract Markov Decision Processes, Policy sketches.
+2. Value Function: Universal Value Function Approximators.
+3. Reward: Little introduction on "Intrinsic Motivation" and Hierarchy in rewards.
+4. Task Parametrization: Hierarchy in lifelong long learning 
 
-Papers:
-1) [Between MDPs and semi-MDPs](http://www-anw.cs.umass.edu/~barto/courses/cs687/Sutton-Precup-Singh-AIJ99.pdf)
-2) [CST: Constructing Skill Trees by Demonstration](https://cs.brown.edu/~gdk/pubs/cst-ws.pdf)
-3) [Planning with Abstract Markov Decision Processes](http://cs.brown.edu/people/ngopalan/docs/planning-abstract-markov.pdf)
-
-** *Talk might cover more than these paper*
+Recommended reading material::
+ - [Between MDPs and semi-MDPs](http://www-anw.cs.umass.edu/~barto/courses/cs687/Sutton-Precup-Singh-AIJ99.pdf)
+ - [CST: Constructing Skill Trees by Demonstration](https://cs.brown.edu/~gdk/pubs/cst-ws.pdf)
+ - [Planning with Abstract Markov Decision Processes](http://cs.brown.edu/people/ngopalan/docs/planning-abstract-markov.pdf)
 
 ### Week 4 (November 16th) TBA
 Presented by [Auguste Lalande](https://github.com/augustelalande)
