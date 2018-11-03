@@ -27,7 +27,7 @@ Recommended reading material:
  - [Taskonomy](http://taskonomy.stanford.edu/)
 
 ### Week 2 (November 2nd) Applied Transfer Learning techniques in Robotics
-Presented by [Melissa Mozifian](https://melfm.github.io/about.html)
+Presented by [Melissa Mozifian](https://melfm.github.io/about.html). Slides: [pdf](presentations/week2_mel/transfer_club02.pdf)
 
 The purpose of this meeting is to dive into more promising Transfer techniques applied in robotics.
 Recommended reading material:
@@ -43,7 +43,7 @@ I will explore more on question of "What to Transfer? How its related to Hierarc
 1. Control Policies: Options, Skills, Universal Options, Absctract Markov Decision Processes, Policy sketches.
 2. Value Function: Universal Value Function Approximators.
 3. Reward: Little introduction on "Intrinsic Motivation" and Hierarchy in rewards.
-4. Task Parametrization: Hierarchy in lifelong long learning 
+4. Task Parametrization: Hierarchy in lifelong long learning
 
 Recommended reading material::
  - [Between MDPs and semi-MDPs](http://www-anw.cs.umass.edu/~barto/courses/cs687/Sutton-Precup-Singh-AIJ99.pdf)
