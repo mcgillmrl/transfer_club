@@ -45,7 +45,7 @@ I will explore more on question of "What to Transfer? How its related to Hierarc
 3. Reward: Little introduction on "Intrinsic Motivation" and Hierarchy in rewards.
 4. Task Parametrization: Hierarchy in lifelong long learning
 
-Recommended reading material::
+Recommended reading material:
  - [Between MDPs and semi-MDPs](http://www-anw.cs.umass.edu/~barto/courses/cs687/Sutton-Precup-Singh-AIJ99.pdf)
  - [CST: Constructing Skill Trees by Demonstration](https://cs.brown.edu/~gdk/pubs/cst-ws.pdf)
  - [Planning with Abstract Markov Decision Processes](http://cs.brown.edu/people/ngopalan/docs/planning-abstract-markov.pdf)
@@ -55,7 +55,7 @@ Presented by [Auguste Lalande](https://github.com/augustelalande)
 
 I will explore some of the challenges faced at the perceptual level when doing transfer (e.g. overcoming visual differences between simulator and real world). 
 
-Recommended reading material::
+Recommended reading material:
  - [Progressive Neural Networks](https://arxiv.org/abs/1606.04671)
  - [DARLA: Improving Zero-Shot Transfer in Reinforcement Learning](https://arxiv.org/abs/1707.08475)
 
