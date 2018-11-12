@@ -53,6 +53,12 @@ Recommended reading material::
 ### Week 4 (November 16th) TBA
 Presented by [Auguste Lalande](https://github.com/augustelalande)
 
+I will explore some of the challenges faced at the perceptual level when doing transfer (e.g. overcoming visual differences between simulator and real world). 
+
+Recommended reading material::
+ - [Progressive Neural Networks](https://arxiv.org/abs/1606.04671)
+ - [DARLA: Improving Zero-Shot Transfer in Reinforcement Learning](https://arxiv.org/abs/1707.08475)
+
 ### Week 5 (November 23rd) TBA
 Presented by [Sanjay Thakur](https://github.com/sanjaythakur)
 
