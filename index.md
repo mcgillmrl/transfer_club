@@ -3,6 +3,8 @@
 
 **URL**: https://mcgillmrl.github.io/transfer_club/
 
+**MailingList**: https://groups.google.com/forum/#!forum/transfer_club
+
 **Location**: MC 627 McConnell Engineering Building
 
 **Time**: Fridays at 4:30 p.m.
@@ -60,7 +62,7 @@ Recommended reading material:
  - [DARLA: Improving Zero-Shot Transfer in Reinforcement Learning](https://arxiv.org/abs/1707.08475)
 
 ### Week 5 (November 23rd) TBA
-Presented by [Sanjay Thakur](https://github.com/sanjaythakur)
+Presented by [Nikhil Kakodkar](https://github.com/sanjaythakur)
 
-### Week 6 (November 30th) Bisimulation in Transfer
-Presented by [Philip Amortila](http://rl.cs.mcgill.ca/people.html)
+### Week 6 (November 30th) TBA
+
