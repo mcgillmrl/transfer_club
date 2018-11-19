@@ -64,5 +64,10 @@ Recommended reading material:
 ### Week 5 (November 23rd) TBA
 Presented by [Nikhil Kakodkar](https://github.com/sanjaythakur)
 
+This week we will be discussing the Option-Critic architecture in detail.
+
+Recommended Reading:
+- [The Option-Critic Architecture](https://arxiv.org/abs/1609.05140)
+
 ### Week 6 (November 30th) TBA
 
